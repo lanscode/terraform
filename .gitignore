@@ -9,3 +9,6 @@
 */*/keys/*
 */keys/*
 */providertfnoused
+*/*/terraform.tfvars
+*/*/*/terraform.tfvars
+*/terraform.tfvars
